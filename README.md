@@ -19,7 +19,7 @@ Icons from [refind-theme-regular](https://github.com/bobafetthotmail/refind-them
 
 ## Contribution
 
-If icon of your distribution is missing, contact me or feel free to create one. Canvas size is 128x128 pixels, the actual icon should fit in a 96x96 square. Use white color without transparency.
+If icon of your distribution is missing, submit an issue or feel free to create one. Canvas size is 128x128 pixels, the actual icon should fit in a 96x96 square. Use white color without transparency.
 
 
 ## License

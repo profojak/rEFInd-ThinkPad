@@ -1,6 +1,6 @@
 ﻿# ThinkPad rEFInd theme
 
-![Screenshot](https://i.imgur.com/If4jyT5.png)
+![Screenshot](https://imgur.com/a/LSAklEl)
 
 
 ## Installation

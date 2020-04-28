@@ -14,7 +14,7 @@
 
 ## Credits
 
-Icons from [refind-theme-regular](https://github.com/bobafetthotmail/refind-theme-regular) by [Alberto Bursi](https://github.com/bobafetthotmail).
+This theme is altered version of [refind-theme-regular](https://github.com/bobafetthotmail/refind-theme-regular) by [Alberto Bursi](https://github.com/bobafetthotmail).
 
 
 ## Contribution
@@ -24,4 +24,4 @@ If icon of your distribution is missing, submit an issue or feel free to create 
 
 ## License
 
-MIT © Jakub Profota
+See [refind-theme-regular](https://github.com/bobafetthotmail/refind-theme-regular)

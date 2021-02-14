@@ -17,11 +17,6 @@
 This theme is altered version of [refind-theme-regular](https://github.com/bobafetthotmail/refind-theme-regular) by [Alberto Bursi](https://github.com/bobafetthotmail).
 
 
-## Contribution
-
-If icon of your distribution is missing, submit an issue or feel free to create one. Canvas size is 128x128 pixels, the actual icon should fit in a 96x96 square. Use white color without transparency.
-
-
 ## License
 
 See [refind-theme-regular](https://github.com/bobafetthotmail/refind-theme-regular)
